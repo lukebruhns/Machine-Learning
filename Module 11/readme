@@ -1,1 +1,5 @@
 
+This Module's practical exercise is a model building and evaluation exercise using used car data set to predict sale price and determine feature importance. 
+If using anaconda to view this notebook it will be neccesary to install category encoders for scikit-learn found here:
+https://contrib.scikit-learn.org/category_encoders/index.html
+From this set of encoders this notebook uses the target encoder to encode categorical features.
